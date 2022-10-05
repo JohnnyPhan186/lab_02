@@ -7,7 +7,7 @@
 ### App Walk-though
 
 
-<img src= https://s3.amazonaws.com/img0.recordit.co/RjzmCvW853.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1664656659&Signature=DmwKNzPqhf3RbVI%2FDp%2FTpJzEPcU%3D width=200><br>
+<img src= "https://recordit.co/RjzmCvW853" width=200><br>
 
 
 
