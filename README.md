@@ -7,7 +7,7 @@
 ### App Walk-though
 
 
-<img src= "https://recordit.co/RjzmCvW853" width=200><br>
+<img src= https://recordit.co/RjzmCvW853 width=200><br>
 
 
 
